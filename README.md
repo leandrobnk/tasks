@@ -38,4 +38,4 @@ O sistema pode ser acessado na porta :9000
 
 ## Support
 
-Para mais informações entre em contato pelo [whatsapp](https://wa.me/556234420432) ou e-mail: contato@dueguard.tec.br.
+Para mais informações entre em contato pelo ou e-mail: leandro.bnk@gmail.com.
