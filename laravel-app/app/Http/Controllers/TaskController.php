@@ -18,7 +18,7 @@ class TaskController extends Controller
         $userId = request()->user()->id;
         $attributes = request()->validate([
             'title' => ['required', 'string'],
-            'description' => ['nullable', 'string'],
+            'description' => ['required', 'string'],
         ]);
         $attributes['user_id']=$userId;
 
